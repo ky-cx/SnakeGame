@@ -1,5 +1,10 @@
 # 🐍 Snake Game - C# Console Application
 
+[![Made with C#](https://img.shields.io/badge/Made%20with-C%23-239120?style=for-the-badge&logo=c-sharp)](https://github.com/ky-cx/snake-game-csharp)
+[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Cross--Platform-blue?style=for-the-badge)]()
+
 Classic Snake game built with C# for the terminal, demonstrating OOP principles, game loops, and collision detection algorithms.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
