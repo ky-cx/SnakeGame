@@ -7,8 +7,6 @@
 
 Classic Snake game built with C# for the terminal, demonstrating OOP principles, game loops, and collision detection algorithms.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ## ✨ Features
 
